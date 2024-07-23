@@ -1,5 +1,7 @@
 # Responsive Personal Portfolio Page Template
 
+![Preview](images/preview.jpeg)
+
 ## Getting started
 
 The existing page's style is sufficient with Tailwind CSS. If you want to change the style, you can run the following command in the console:
